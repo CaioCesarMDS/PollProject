@@ -3,3 +3,5 @@
 node_modules
 
 .DT_Store
+.env
+

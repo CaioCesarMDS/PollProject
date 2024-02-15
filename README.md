@@ -11,6 +11,7 @@ O sistema permite que os usuários criem enquetes, votem nelas e visualizem os r
     <li>Docker</li> 
 </ul>
 </p>
+
 Se você não tiver o [Node](https://nodejs.org/en) <strong>(Recomendável versão LTS)</strong> <br>
 Se você não tiver o [Docker](https://docs.docker.com/engine/install/) <strong>(Escolha a versão conforme seu sistema operacional)</strong>
 <br>
